@@ -1,0 +1,8 @@
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\bin\Debug\NotHesaplamaSistemi.exe.config
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\bin\Debug\NotHesaplamaSistemi.exe
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\bin\Debug\NotHesaplamaSistemi.pdb
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\obj\Debug\NotHesaplamaSistemi.csproj.AssemblyReference.cache
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\obj\Debug\NotHesaplamaSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\obj\Debug\NotHesaplamaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\obj\Debug\NotHesaplamaSistemi.exe
+C:\Users\erdem\source\repos\EntryLevelProjects\NotHesaplamaSistemi\obj\Debug\NotHesaplamaSistemi.pdb
